@@ -1,2 +1,2 @@
-# examen-dise-o-20240411
-Examen de Diseño UX.
+# WEEK13-DAY4-D5
+Practica de categorias
